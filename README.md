@@ -7,9 +7,9 @@
 - 💞️ I’m looking to collaborate on Open Source and Automation Project
 
 - 📫 How to reach me:
-                      Telegram @AbduRahem01 
-                     Twitter @Abady_0M 
-                     LinkedIn https://www.linkedin.com/in/abdu-raheem-240052147
+                     **Telegram** @AbduRahem01 
+                     **Twitter** @Abady_0M 
+                     **LinkedIn** https://www.linkedin.com/in/abdu-raheem-240052147
 
 <!---
 fedora-py3/fedora-py3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
